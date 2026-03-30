@@ -2,8 +2,11 @@ Being online is a big part of college life—assignments, social media, payments
 
 ✅ What You Should Do
 1.Use strong passwords and don’t reuse the same one everywhere. Adding 2-factor authentication (OTP/login approval) gives extra protection.
+
 2.Think before you click — if a link looks suspicious or too urgent, double-check it.
+
 3.Download apps carefully — stick to trusted app stores and avoid random links.
+
 4.Be mindful of what you share online — personal details can be misused easily.
 5.Avoid using public Wi-Fi for important logins like banking or college portals.
 6.Keep your phone and laptop updated — updates fix security issues.
