@@ -2,11 +2,11 @@
 
 A comprehensive project focused on developing and demonstrating core digital literacy skills in the modern workplace and everyday life.
 
-## 📋 Project Overview
+## Project Overview
 
 This repository contains coursework and documentation for the Digital Literacy Project, which covers essential skills for navigating digital platforms, communication, and cybersecurity awareness. The project is organized into distinct tasks, each addressing key aspects of digital competence.
 
-## 📁 Project Structure
+## Project Structure
 
 - **task-1 presentation** - Introduction to digital literacy concepts and foundational knowledge
 - **task-2 Portfolio** - Personal portfolio development showcasing digital competencies
@@ -15,7 +15,7 @@ This repository contains coursework and documentation for the Digital Literacy P
 - **task-5-cybercrime** - Understanding cybersecurity threats and prevention strategies
 - **Project Report** - Comprehensive project summary and findings
 
-## 🎯 Key Topics Covered
+## Key Topics Covered
 
 ### Task 1: Presentation
 Introduction to digital literacy fundamentals and core concepts.
@@ -46,7 +46,7 @@ Cybersecurity awareness covering:
 - Data protection strategies
 - Incident response awareness
 
-## 📚 Learning Objectives
+## Learning Objectives
 
 - Develop proficiency in using digital tools and platforms
 - Master professional communication in digital environments
@@ -54,7 +54,7 @@ Cybersecurity awareness covering:
 - Build a compelling digital portfolio
 - Demonstrate responsible digital citizenship
 
-## 🔒 Security & Best Practices
+## Security & Best Practices
 
 This project emphasizes the importance of:
 - Strong password management
